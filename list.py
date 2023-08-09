@@ -1,0 +1,18 @@
+a = ['cars', 'bus', 'train', 'bick', 'cycle']
+a[0] = 'Taufique'
+print(a)
+a.append('Amber')
+print(a)
+a.insert(0 , 'Tausif')
+print(a)
+a.sort()
+print(a)
+a.reverse()
+print(a)
+print(a[0])
+a = (' Taufique')
+b = (f'My name is {a.title()}')
+print(b)
+x = str(input())
+y = (f'your good name is {x.title()}')
+print(y)
