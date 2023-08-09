@@ -1,2 +1,2 @@
 # Internn
-Intern with codingidol 
+Internship with codingidol 
