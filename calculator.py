@@ -1,14 +1,14 @@
 a = int(input("Enter Your Number: "))
 b = int(input("Enter Your Number: "))
 op = input("Enter Your Operater: ")
-if (op=='+'):
-    print(a + b)
+if(op=='+'):
+    print("Addition: ",a+b)
 elif(op=='-'):
-    print(a - b)
+    print("Substraction: ",a-b)
 elif(op=='*'):
-    print(a * b)
+    print("Multiplaction: ",a*b)
 elif(op=='/'):
-    print(a / b)
+    print("Division: ",a/b)
 else:
     print("Enter a Valid Operator")
     
